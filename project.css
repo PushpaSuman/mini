@@ -18,17 +18,17 @@ body, html{
   }
   
   .parallax-img1{
-    background-image:url('');
+    background-image:url('../project/image/image1.jpg');
     min-height:100%;
   }
   
   .parallax-img2{
-    background-image:url('../project/image2.jpg');
+    background-image:url('../project/image/image2.jpg');
     min-height:400px;
   }
   
   .parallax-img3{
-    background-image:url('../project/image3.jpg');
+    background-image:url('../project/image/image3.jpg');
     min-height:400px;
   }
   
@@ -69,23 +69,13 @@ body, html{
   }
   .feedback-form{
     background-color: lightblue;
-    padding-bottom: 124px;
-    padding-top: 58px;
+    padding-top: 26px;
+    padding-bottom: 72px;
+    text-align: center;
   }
   .feedback-form h1{
-    
-      text-align: centre;
-      text-align: center;
-      padding: 43px;
-      font-size: 48px;
+    text-align: center;
   }
-  form{
-  text-align: center;
-  }
-.subbtn :hover{
-  color: green;
-}
-
   
   
   
